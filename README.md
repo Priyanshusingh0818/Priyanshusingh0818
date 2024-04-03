@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">"Driven by a fervent passion for both Artificial Intelligence (AI) and Machine Learning (ML), I'm an avid enthusiast constantly immersed in various ML projects. Concurrently, I'm delving deeper into the realm of C++, exploring its nuances and leveraging its power to enhance my projects. My journey is characterized by a relentless pursuit of knowledge and hands-on experience, as I aim to broaden my understanding and skill set. Through this journey, I'm committed to not only honing my expertise but also building a diverse portfolio of impactful projects that demonstrate my proficiency in AI/ML and C++. As I navigate through this dynamic landscape, I'm eager to collaborate with like-minded individuals, contribute to cutting-edge innovations, and push the boundaries of what's possible in the realms of technology and machine learning applications. Each project serves as an opportunity for growth and learning, fueling my curiosity and driving me towards excellence in both AI/ML and C++ development. With each endeavor, I strive to make meaningful contributions to the ever-evolving field of artificial intelligence and machine learning."</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0djcKq75ALXh37jNBbKNtp&ust=1712247034811000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDY68m3poUDFQAAAAAdAAAAABAw">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusingh0818&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusingh0818" /> </p>
 
 - 🔭 I’m currently working on **Sales Forecasting**
@@ -22,4 +25,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh0818&show_icons=true&locale=en&layout=compact" alt="priyanshusingh0818" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshusingh0818&show_icons=true&locale=en&layout=compact" alt="priyanshusingh0818" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh0818&show_icons=true&locale=en" alt="priyanshusingh0818" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh0818&" alt="priyanshusingh0818" /></p>
