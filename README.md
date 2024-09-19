@@ -6,9 +6,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusingh0818&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusingh0818" /> </p>
-
-- 🔭 I’m currently working on **Sales Forecasting**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshusingh0818](https://github.com/Priyanshusingh0818)
