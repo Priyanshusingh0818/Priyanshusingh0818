@@ -86,8 +86,6 @@ motto: "Innovation through Code, Impact through Technology"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh0818&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FFD700&currStreakLabel=00D4FF" alt="GitHub Streak Stats"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh0818&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFD700&area=true&hide_border=true" alt="GitHub Activity Graph"/>
