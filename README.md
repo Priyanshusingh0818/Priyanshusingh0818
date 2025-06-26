@@ -7,7 +7,6 @@
 <div align="center">
   
   [![Profile Views](https://komarev.com/ghpvc/?username=priyanshusingh0818&label=Profile%20Views&color=00d4ff&style=for-the-badge)](https://github.com/priyanshusingh0818)
-  [![GitHub followers](https://img.shields.io/github/followers/priyanshusingh0818?label=Followers&style=for-the-badge&color=00d4ff)](https://github.com/priyanshusingh0818)
   [![GitHub stars](https://img.shields.io/github/stars/priyanshusingh0818?label=Stars&style=for-the-badge&color=ffd700)](https://github.com/priyanshusingh0818)
   
 </div>
