@@ -112,17 +112,6 @@ motto: "Innovation through Code, Impact through Technology"
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🔥 Recent Work
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh0818&repo=RFID-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/priyanshusingh0818)
-
-*Explore more of my projects on my [GitHub Repository](https://github.com/Priyanshusingh0818)*
-
-</div>
-
 ---
 
 ## 🌐 Let's Connect & Collaborate
