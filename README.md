@@ -146,11 +146,7 @@ motto: "Innovation through Code, Impact through Technology"
 
 ---
 
-## 🎵 Current Coding Mood
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
-</div>
 
 ---
 
