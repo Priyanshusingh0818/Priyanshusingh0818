@@ -1,4 +1,4 @@
-# 🚀 Priyanshu Singh | AI/ML Innovator & Tech Enthusiast
+# 🚀 Priyanshu Singh | AI/ML Innovator
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;AI%2FML+Engineer+%26+Problem+Solver;Passionate+about+Innovation;Building+the+Future+with+Code!" alt="Typing Animation" />
