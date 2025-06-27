@@ -78,19 +78,6 @@ motto: "Innovation through Code, Impact through Technology"
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh0818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh0818&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh0818&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFD700&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
 ---
 
 ## 🏆 Achievements & Recognition
